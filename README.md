@@ -1,0 +1,1 @@
+Download Spark-Sisters.zip from the Releases page. Unzip it and double-click Play-Spark-Sisters.html.
